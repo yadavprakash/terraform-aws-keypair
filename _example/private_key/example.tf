@@ -15,3 +15,5 @@ module "private_keypair" {
   create_private_key_enabled = true
   enable_key_pair            = true
 }
+
+
